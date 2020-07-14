@@ -1,3 +1,10 @@
+</a>
+
+ ![](https://visitor-badge.glitch.me/badge?page_id=PluckyPrecious.PluckyPrecious)
+
+<br />
+</p> 
+
 # Hola!:wave: Mucho Gusto.:blush:
 
 <img src="https://github.com/PluckyPrecious/PluckyPrecious/blob/9565cf79245d4787c6fcade1bda5ceb011d287cd/F25AC92B-312E-4CD7-A884-AD0FDEC99A80.jpeg" alt="banner that says Kelechi Precious Nwachukwu - code newbie always. content curator. contributing for good alongside an oil paint illustration of Kelechi"> 
@@ -32,6 +39,3 @@ Hi i'm Kelechi, a Project Manager with Finance background & love for anything Da
 
 
 - Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://pluckys.home.blog/2019/11/01/the-journey-begins/">WordPress</a>
-
-
-</p> 
