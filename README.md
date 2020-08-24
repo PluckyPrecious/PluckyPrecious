@@ -33,16 +33,7 @@ Hi, I'm Kelechi, a Project Manager with Finance background & love for anything D
 
 - Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://pluckys.home.blog/2019/11/01/the-journey-begins/">WordPress</a>
 
----
 
 ## :computer: Recent Activity
 
 <!--START_SECTION:activity-->
-
-
-
-
-
-<!--END_SECTION:activity-->
-
----
