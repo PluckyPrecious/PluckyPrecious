@@ -35,4 +35,9 @@ Hi, I'm Kelechi, a Project Manager with Finance background & love for anything D
 
 ## Latest Blog Posts📩
 <!-- BLOG-POST-LIST:START -->
+- [How To Get Found On Google Search Made Easy With People Cards](https://predigt.dev/how-to-get-found-on-google-search-made-easy-with-people-cards)
+- [TwitterSpaces: A Clubhouse-Like Social Feature That Will Control Abuse](https://predigt.dev/twitterspaces-a-clubhouse-like-social-feature-that-will-control-abuse)
+- [This is Why This Year You Need To Start A Blog](https://predigt.dev/this-is-why-this-year-you-need-to-start-a-blog)
+- [8 Honest Facts You Need To Know About Successful Blogging](https://predigt.dev/8-honest-facts-you-need-to-know-about-successful-blogging)
+- [Generate Jekyll Site On Windows Without Difficulties](https://predigt.dev/generate-jekyll-site-on-windows-without-difficulties)
 <!-- BLOG-POST-LIST:END -->
