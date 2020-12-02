@@ -20,7 +20,7 @@ Hi, I'm Kelechi, a Project Manager with Finance background & love for anything D
 >*I love to race in where angels fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i often travel.*
 
 
-## Find me around the WWW🌎:
+## Find me around the WWW🌎
 
 <p align="center"> 
 
@@ -33,6 +33,6 @@ Hi, I'm Kelechi, a Project Manager with Finance background & love for anything D
 
 - Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://predigt.dev/">Predigt</a>
 
-## 📩 Latest Blog Posts
+## Latest Blog Posts📩
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
