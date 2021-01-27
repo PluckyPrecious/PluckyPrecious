@@ -35,9 +35,9 @@ Hi, I'm Kelechi, a Project Manager with Finance background & love for anything D
 
 ## Latest Blog Posts📩
 <!-- BLOG-POST-LIST:START -->
+- [A Rookie In Python But Loving It](https://predigt.dev/a-rookie-in-python-but-loving-it)
 - [Difficulties In My Tech Journey: A Survival Guide](https://predigt.dev/difficulties-in-my-tech-journey-a-survival-guide)
 - [The Ultimate Revelation Of My Awesome Tech Transition Journey](https://predigt.dev/the-ultimate-revelation-of-my-awesome-tech-transition-journey)
 - [Awesome Way Developers Can Gain Google Technology Skill](https://predigt.dev/awesome-way-developers-can-gain-google-technology-skill)
 - [How To Get Found On Google Search Made Easy With People Cards](https://predigt.dev/how-to-get-found-on-google-search-made-easy-with-people-cards)
-- [TwitterSpaces: A Clubhouse-Like Social Feature That Will Control Abuse](https://predigt.dev/twitterspaces-a-clubhouse-like-social-feature-that-will-control-abuse)
 <!-- BLOG-POST-LIST:END -->
