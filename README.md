@@ -33,7 +33,9 @@ I'm Kelechi, a Project Manager with Finance background & love for anything Data 
 
 ## Find me around the WWW🌎
 
-<p align="center"> 
+<p align="center">
+  
+  
 - Contributing on: <a href="https://github.com/PluckyPrecious"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
 
 
@@ -41,6 +43,7 @@ I'm Kelechi, a Project Manager with Finance background & love for anything Data 
 
 
 - Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://predigt.dev/">Predigt</a>
+
 </p>
 
 ## Latest Blog Posts📩
