@@ -6,15 +6,6 @@
 I'm Kelechi, a Project Manager with Finance background & love for anything Data or Tech. Explorig the front & back-end of the web, can't be caught in the middle.:wink: Open-source documentation & translation contributor, working on using data for good, big team player. Python is my first language, HTML, CSS, loving Markdown. Igbo native, cartoon freak, chocolate, good food, and karaoke.
 
 
-<p align="center">
-  <a href="https://github.com/PluckyPreciou?tab=followers">
-    <img src="https://img.shields.io/github/followers/PluckyPrecious?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/PluckyPrecious">
-    <img src="https://img.shields.io/twitter/follow/PluckyPrecious?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-</p>
-
 ## More About Me:woman:
 
 :purple_heart: Kind people are my kinda people
@@ -36,15 +27,20 @@ I'm Kelechi, a Project Manager with Finance background & love for anything Data 
 <p align="center">
   
   
-- Contributing on: <a href="https://github.com/PluckyPrecious"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
+- Contributing on: <a href="https://github.com/PluckyPreciou?tab=followers">
+    <img src="https://img.shields.io/github/followers/PluckyPrecious?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+  </a>
 
 
-- Trying to be up to good on: <a href="https://twitter.com/PluckyPrecious"><img src="https://img.shields.io/twitter/follow/PluckyPrecious?label=Twitter&style=social" alt="Twitter"></a> 
+- Trying to be up to good on: <a href="http://twitter.com/PluckyPrecious">
+    <img src="https://img.shields.io/twitter/follow/PluckyPrecious?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
 
 
 - Lazy curating pluckyspiration on: <a href="https://www.youtube.com/channel/UC2-U73E-uyf_lNCDO0yENlQ?view_as=subscriber">YouTube</a> or <a href="https://predigt.dev/">Predigt</a>
 
 </p>
+
 
 ## Latest Blog Posts📩
 <!-- BLOG-POST-LIST:START -->
